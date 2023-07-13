@@ -1,0 +1,17 @@
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\NetworkTopologyOptimization.exe
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\NetworkTopologyOptimization.deps.json
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\NetworkTopologyOptimization.runtimeconfig.json
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\NetworkTopologyOptimization.dll
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\NetworkTopologyOptimization.pdb
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.csproj.AssemblyReference.cache
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.AssemblyInfoInputs.cache
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.AssemblyInfo.cs
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.csproj.CoreCompileInputs.cache
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.dll
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\refint\NetworkTopologyOptimization.dll
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.pdb
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.genruntimeconfig.cache
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\ref\NetworkTopologyOptimization.dll
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\malpy\Desktop\kablosuz iletişim ağları\NetworkTopologyOptimization\NetworkTopologyOptimization\obj\Debug\net6.0\NetworkTopologyOptimization.csproj.CopyComplete

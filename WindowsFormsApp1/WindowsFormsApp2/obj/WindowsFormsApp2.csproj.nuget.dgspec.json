@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\malpy\\Desktop\\kablosuz iletişim ağları\\WindowsFormsApp1\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\malpy\\Desktop\\kablosuz iletişim ağları\\WindowsFormsApp1\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\malpy\\Desktop\\kablosuz iletişim ağları\\WindowsFormsApp1\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "projectName": "WindowsFormsApp2",
+        "projectPath": "C:\\Users\\malpy\\Desktop\\kablosuz iletişim ağları\\WindowsFormsApp1\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\malpy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malpy\\Desktop\\kablosuz iletişim ağları\\WindowsFormsApp1\\WindowsFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\malpy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "GMap.NET.Core": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "GMap.NET.WindowsForms": {
+              "target": "Package",
+              "version": "[1.7.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
